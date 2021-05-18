@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #43b02a;
+}
+
+.title, .title:hover {
+    font-size: 32px;
+    color: white;
+    font-family: 'Pattaya', sans-serif;
+    text-decoration: none;
+    transition: color 1s ease;
+}
+.title:hover {
+    color: #f64a00;
+    text-underline: none;
+}
+
+.button {
+    border-radius: 30px;
+    margin-left: 10px;
+    background: #ff671f;
+    color: #ffffff;
+    border-color: #ff671f;
+    transition: color 1s ease;
+    transition: background 1s ease;
+}
+
+.button:hover {
+    border-color: #ffffff;
+    color: #ff671f;
+    background-color: #ffffff;
+}

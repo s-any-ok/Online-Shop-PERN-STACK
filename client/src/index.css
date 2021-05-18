@@ -1,0 +1,7 @@
+.list-group-item.active,.page-item.active .page-link  {
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    background-color: #43b02a;
+    border-color: #43b02a;
+}
